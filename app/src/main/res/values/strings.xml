@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student_Registration</string>
+    <string name="programmes">Select Programme</string>
+    <string name="academicyear">Select Academic Year</string>
+    <string name="semester">Select Semester</string>
+    <string name="year">Select Year</string>
+    <!--  for hinting -->
+    <string name="student_details">Student Details</string>
+
+</resources>
